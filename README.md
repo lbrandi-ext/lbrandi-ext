@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @lbrandi-ext - Lucas Brandi
+- 👀 I’m interested in data engineering and analytics.
